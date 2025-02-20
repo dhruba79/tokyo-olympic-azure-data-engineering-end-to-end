@@ -1,0 +1,501 @@
+Order ID,Date,Region,Category,Product,Sales,Profit,Customer Segment
+ORD-1000,2023-01-01,East,Furniture,Smartphone,811.63,198.16,Corporate
+ORD-1001,2023-01-02,North,Electronics,Shirt,1906.36,36.1,Consumer
+ORD-1002,2023-01-03,South,Furniture,Chair,1490.79,-190.47,Consumer
+ORD-1003,2023-01-04,North,Furniture,Shoes,1237.45,313.8,Corporate
+ORD-1004,2023-01-05,East,Electronics,Desk,396.44,184.73,Consumer
+ORD-1005,2023-01-06,East,Furniture,Chair,396.39,-337.38,Consumer
+ORD-1006,2023-01-07,West,Electronics,Laptop,210.36,410.93,Small Business
+ORD-1007,2023-01-08,North,Furniture,Smartphone,1745.73,322.54,Consumer
+ORD-1008,2023-01-09,South,Electronics,Jacket,1242.12,449.8,Corporate
+ORD-1009,2023-01-10,North,Furniture,Cabinet,1445.34,225.72,Consumer
+ORD-1010,2023-01-11,North,Electronics,Table,139.11,113.42,Corporate
+ORD-1011,2023-01-12,East,Electronics,Desk,1942.83,-81.76,Corporate
+ORD-1012,2023-01-13,North,Apparel,Chair,1681.64,432.73,Corporate
+ORD-1013,2023-01-14,North,Furniture,Camera,503.44,366.06,Corporate
+ORD-1014,2023-01-15,East,Apparel,Jacket,445.47,-454.78,Consumer
+ORD-1015,2023-01-16,East,Apparel,Tablet,448.47,-473.63,Consumer
+ORD-1016,2023-01-17,North,Electronics,Camera,678.06,-123.54,Consumer
+ORD-1017,2023-01-18,East,Electronics,Desk,1097.04,310.55,Corporate
+ORD-1018,2023-01-19,West,Electronics,Smartphone,920.7,487.28,Corporate
+ORD-1019,2023-01-20,North,Furniture,Jacket,653.34,-349.58,Corporate
+ORD-1020,2023-01-21,West,Apparel,Camera,1262.52,94.13,Small Business
+ORD-1021,2023-01-22,East,Furniture,Tablet,365.04,-119.11,Consumer
+ORD-1022,2023-01-23,South,Furniture,Jacket,655.07,469.91,Corporate
+ORD-1023,2023-01-24,North,Apparel,Smartphone,796.09,342.12,Corporate
+ORD-1024,2023-01-25,West,Furniture,Laptop,966.53,338.33,Consumer
+ORD-1025,2023-01-26,South,Apparel,Shirt,1591.83,-31.31,Consumer
+ORD-1026,2023-01-27,North,Apparel,Smartphone,479.38,-85.18,Small Business
+ORD-1027,2023-01-28,North,Electronics,Shoes,1077.05,-226.59,Corporate
+ORD-1028,2023-01-29,West,Electronics,Camera,1225.59,-443.62,Small Business
+ORD-1029,2023-01-30,East,Electronics,Laptop,188.26,364.72,Consumer
+ORD-1030,2023-01-31,West,Electronics,Tablet,1254.34,312.9,Consumer
+ORD-1031,2023-02-01,East,Apparel,Tablet,424.0,499.72,Small Business
+ORD-1032,2023-02-02,East,Furniture,Table,223.6,496.64,Consumer
+ORD-1033,2023-02-03,West,Electronics,Smartphone,1902.88,55.43,Small Business
+ORD-1034,2023-02-04,South,Apparel,Tablet,1934.7,268.99,Consumer
+ORD-1035,2023-02-05,East,Apparel,Shoes,1635.95,444.77,Consumer
+ORD-1036,2023-02-06,West,Electronics,Smartphone,678.77,349.65,Small Business
+ORD-1037,2023-02-07,East,Furniture,Laptop,285.58,-252.65,Small Business
+ORD-1038,2023-02-08,West,Apparel,Smartphone,1400.04,-49.46,Small Business
+ORD-1039,2023-02-09,East,Electronics,Laptop,936.29,-370.84,Small Business
+ORD-1040,2023-02-10,East,Apparel,Shoes,331.87,454.05,Small Business
+ORD-1041,2023-02-11,North,Apparel,Chair,1040.84,106.17,Small Business
+ORD-1042,2023-02-12,North,Electronics,Shoes,165.34,-271.36,Corporate
+ORD-1043,2023-02-13,South,Electronics,Desk,1827.71,171.7,Consumer
+ORD-1044,2023-02-14,North,Electronics,Jacket,591.68,118.13,Consumer
+ORD-1045,2023-02-15,North,Apparel,Cabinet,1358.79,-141.84,Consumer
+ORD-1046,2023-02-16,North,Apparel,Laptop,692.25,-386.44,Corporate
+ORD-1047,2023-02-17,South,Furniture,Cabinet,1088.13,171.57,Corporate
+ORD-1048,2023-02-18,East,Apparel,Jacket,1138.75,20.31,Consumer
+ORD-1049,2023-02-19,South,Electronics,Smartphone,451.22,272.32,Corporate
+ORD-1050,2023-02-20,South,Apparel,Jeans,1942.21,20.16,Small Business
+ORD-1051,2023-02-21,North,Furniture,Jacket,1572.75,352.18,Corporate
+ORD-1052,2023-02-22,South,Electronics,Chair,1885.05,51.91,Small Business
+ORD-1053,2023-02-23,West,Apparel,Desk,1800.17,60.94,Small Business
+ORD-1054,2023-02-24,East,Apparel,Jeans,1236.01,376.65,Small Business
+ORD-1055,2023-02-25,East,Furniture,Smartphone,1851.56,-96.52,Consumer
+ORD-1056,2023-02-26,North,Electronics,Chair,268.14,-365.98,Consumer
+ORD-1057,2023-02-27,East,Apparel,Table,472.37,-471.22,Consumer
+ORD-1058,2023-02-28,North,Apparel,Shirt,185.93,255.14,Consumer
+ORD-1059,2023-03-01,South,Furniture,Cabinet,718.13,120.31,Small Business
+ORD-1060,2023-03-02,West,Furniture,Jacket,838.49,204.08,Small Business
+ORD-1061,2023-03-03,East,Furniture,Camera,615.56,-287.04,Consumer
+ORD-1062,2023-03-04,East,Furniture,Smartphone,1674.6,-363.63,Corporate
+ORD-1063,2023-03-05,East,Furniture,Desk,777.83,-485.46,Corporate
+ORD-1064,2023-03-06,West,Apparel,Laptop,633.78,-149.41,Small Business
+ORD-1065,2023-03-07,West,Apparel,Tablet,1131.12,89.92,Consumer
+ORD-1066,2023-03-08,North,Electronics,Table,367.76,-107.76,Consumer
+ORD-1067,2023-03-09,North,Apparel,Table,1624.17,-62.53,Consumer
+ORD-1068,2023-03-10,South,Furniture,Camera,241.65,404.16,Corporate
+ORD-1069,2023-03-11,South,Apparel,Shoes,1975.09,-151.74,Consumer
+ORD-1070,2023-03-12,North,Apparel,Desk,1567.27,13.99,Corporate
+ORD-1071,2023-03-13,West,Furniture,Chair,477.56,283.65,Small Business
+ORD-1072,2023-03-14,West,Apparel,Cabinet,110.49,-103.46,Corporate
+ORD-1073,2023-03-15,South,Apparel,Laptop,1649.38,122.09,Small Business
+ORD-1074,2023-03-16,East,Electronics,Shoes,1443.03,362.36,Corporate
+ORD-1075,2023-03-17,South,Apparel,Shoes,1485.11,449.52,Small Business
+ORD-1076,2023-03-18,West,Furniture,Cabinet,1565.41,-352.93,Small Business
+ORD-1077,2023-03-19,South,Furniture,Jeans,240.68,426.59,Corporate
+ORD-1078,2023-03-20,South,Furniture,Jeans,781.08,-7.88,Small Business
+ORD-1079,2023-03-21,North,Apparel,Smartphone,320.15,-241.76,Corporate
+ORD-1080,2023-03-22,East,Electronics,Table,1739.9,-40.86,Consumer
+ORD-1081,2023-03-23,South,Apparel,Laptop,1284.27,480.03,Corporate
+ORD-1082,2023-03-24,East,Apparel,Desk,728.71,-7.38,Consumer
+ORD-1083,2023-03-25,West,Electronics,Chair,220.76,-171.25,Small Business
+ORD-1084,2023-03-26,South,Apparel,Cabinet,690.87,133.4,Small Business
+ORD-1085,2023-03-27,North,Electronics,Smartphone,717.85,-259.85,Small Business
+ORD-1086,2023-03-28,West,Furniture,Chair,1486.25,-424.14,Corporate
+ORD-1087,2023-03-29,East,Furniture,Cabinet,1311.36,-371.12,Small Business
+ORD-1088,2023-03-30,North,Furniture,Chair,1785.7,-371.95,Consumer
+ORD-1089,2023-03-31,North,Electronics,Tablet,997.21,-348.1,Small Business
+ORD-1090,2023-04-01,North,Apparel,Jacket,327.23,-361.17,Consumer
+ORD-1091,2023-04-02,East,Electronics,Laptop,1455.17,140.87,Consumer
+ORD-1092,2023-04-03,West,Electronics,Jacket,1545.49,-318.12,Consumer
+ORD-1093,2023-04-04,South,Apparel,Smartphone,1166.43,-154.33,Corporate
+ORD-1094,2023-04-05,North,Furniture,Tablet,1564.84,396.79,Consumer
+ORD-1095,2023-04-06,South,Apparel,Jeans,1038.21,-26.04,Consumer
+ORD-1096,2023-04-07,West,Apparel,Jacket,1093.19,167.56,Consumer
+ORD-1097,2023-04-08,East,Electronics,Desk,912.33,-327.68,Corporate
+ORD-1098,2023-04-09,West,Electronics,Chair,148.3,-307.71,Consumer
+ORD-1099,2023-04-10,West,Apparel,Chair,304.99,-459.13,Corporate
+ORD-1100,2023-04-11,North,Electronics,Smartphone,159.72,-331.06,Small Business
+ORD-1101,2023-04-12,East,Apparel,Tablet,1309.18,-221.41,Small Business
+ORD-1102,2023-04-13,East,Furniture,Desk,697.28,-322.99,Corporate
+ORD-1103,2023-04-14,East,Apparel,Desk,1066.28,-411.3,Consumer
+ORD-1104,2023-04-15,South,Apparel,Shirt,1824.38,-379.36,Corporate
+ORD-1105,2023-04-16,East,Furniture,Shirt,573.66,-39.22,Corporate
+ORD-1106,2023-04-17,North,Furniture,Jacket,879.73,-293.67,Consumer
+ORD-1107,2023-04-18,South,Apparel,Jeans,1535.55,-135.73,Small Business
+ORD-1108,2023-04-19,South,Electronics,Table,534.72,3.42,Corporate
+ORD-1109,2023-04-20,West,Electronics,Desk,246.26,190.39,Consumer
+ORD-1110,2023-04-21,West,Apparel,Table,650.53,-460.69,Corporate
+ORD-1111,2023-04-22,South,Electronics,Tablet,406.32,299.41,Small Business
+ORD-1112,2023-04-23,East,Furniture,Cabinet,1866.43,127.9,Corporate
+ORD-1113,2023-04-24,North,Furniture,Camera,1635.43,-418.24,Small Business
+ORD-1114,2023-04-25,West,Furniture,Smartphone,1303.47,373.58,Consumer
+ORD-1115,2023-04-26,West,Furniture,Shoes,1755.78,420.87,Small Business
+ORD-1116,2023-04-27,South,Apparel,Cabinet,1626.98,-438.92,Corporate
+ORD-1117,2023-04-28,East,Electronics,Shoes,454.48,-223.12,Consumer
+ORD-1118,2023-04-29,East,Apparel,Desk,1795.86,306.2,Corporate
+ORD-1119,2023-04-30,North,Electronics,Shirt,1124.75,248.26,Consumer
+ORD-1120,2023-05-01,West,Electronics,Jeans,1634.14,-315.48,Corporate
+ORD-1121,2023-05-02,East,Electronics,Shoes,1802.57,-290.65,Small Business
+ORD-1122,2023-05-03,West,Electronics,Shoes,704.21,-129.53,Consumer
+ORD-1123,2023-05-04,East,Electronics,Table,309.1,-15.48,Small Business
+ORD-1124,2023-05-05,North,Furniture,Table,533.08,118.25,Corporate
+ORD-1125,2023-05-06,South,Apparel,Smartphone,911.5,-131.09,Consumer
+ORD-1126,2023-05-07,North,Electronics,Jacket,1654.23,-37.47,Small Business
+ORD-1127,2023-05-08,West,Electronics,Jeans,1735.39,247.47,Consumer
+ORD-1128,2023-05-09,West,Furniture,Tablet,113.21,-463.32,Small Business
+ORD-1129,2023-05-10,West,Apparel,Tablet,1070.42,-247.56,Consumer
+ORD-1130,2023-05-11,South,Apparel,Jacket,893.08,213.35,Small Business
+ORD-1131,2023-05-12,North,Furniture,Camera,522.0,395.21,Corporate
+ORD-1132,2023-05-13,West,Electronics,Chair,327.74,11.68,Consumer
+ORD-1133,2023-05-14,West,Electronics,Tablet,741.47,32.11,Corporate
+ORD-1134,2023-05-15,North,Electronics,Shirt,1891.53,-392.83,Corporate
+ORD-1135,2023-05-16,South,Electronics,Cabinet,714.09,-52.59,Corporate
+ORD-1136,2023-05-17,North,Electronics,Chair,1085.7,32.62,Corporate
+ORD-1137,2023-05-18,West,Electronics,Camera,1435.74,-257.53,Small Business
+ORD-1138,2023-05-19,West,Furniture,Desk,790.9,-230.76,Consumer
+ORD-1139,2023-05-20,North,Electronics,Tablet,1946.39,-122.72,Small Business
+ORD-1140,2023-05-21,South,Apparel,Shoes,1928.65,-479.93,Corporate
+ORD-1141,2023-05-22,East,Furniture,Smartphone,578.39,-177.92,Consumer
+ORD-1142,2023-05-23,South,Apparel,Chair,1044.77,-288.55,Small Business
+ORD-1143,2023-05-24,West,Electronics,Desk,671.67,-172.5,Small Business
+ORD-1144,2023-05-25,South,Apparel,Desk,641.2,-380.24,Small Business
+ORD-1145,2023-05-26,North,Furniture,Jacket,170.09,390.53,Small Business
+ORD-1146,2023-05-27,East,Apparel,Shoes,1258.17,93.59,Consumer
+ORD-1147,2023-05-28,East,Furniture,Table,1055.09,179.1,Small Business
+ORD-1148,2023-05-29,North,Furniture,Smartphone,197.81,289.17,Small Business
+ORD-1149,2023-05-30,South,Furniture,Smartphone,629.43,-1.56,Corporate
+ORD-1150,2023-05-31,West,Electronics,Tablet,1825.71,-413.08,Consumer
+ORD-1151,2023-06-01,East,Electronics,Cabinet,555.17,37.11,Small Business
+ORD-1152,2023-06-02,South,Apparel,Jeans,375.3,86.84,Small Business
+ORD-1153,2023-06-03,East,Furniture,Smartphone,1029.96,245.44,Consumer
+ORD-1154,2023-06-04,North,Apparel,Table,1972.74,-68.34,Corporate
+ORD-1155,2023-06-05,North,Furniture,Table,559.91,-372.42,Corporate
+ORD-1156,2023-06-06,South,Electronics,Table,1377.06,-216.22,Consumer
+ORD-1157,2023-06-07,East,Furniture,Tablet,1547.08,-136.92,Small Business
+ORD-1158,2023-06-08,North,Electronics,Shoes,551.51,145.92,Consumer
+ORD-1159,2023-06-09,North,Electronics,Laptop,1483.61,70.78,Consumer
+ORD-1160,2023-06-10,North,Furniture,Desk,798.79,-143.9,Consumer
+ORD-1161,2023-06-11,East,Electronics,Camera,1301.38,486.52,Small Business
+ORD-1162,2023-06-12,North,Apparel,Shoes,1303.71,105.77,Small Business
+ORD-1163,2023-06-13,West,Electronics,Chair,1117.97,-262.77,Small Business
+ORD-1164,2023-06-14,West,Apparel,Jeans,271.55,-398.22,Consumer
+ORD-1165,2023-06-15,North,Furniture,Tablet,1687.07,-347.14,Corporate
+ORD-1166,2023-06-16,North,Apparel,Desk,709.48,-254.04,Corporate
+ORD-1167,2023-06-17,East,Electronics,Desk,454.39,-339.32,Small Business
+ORD-1168,2023-06-18,North,Furniture,Tablet,177.47,-313.43,Small Business
+ORD-1169,2023-06-19,North,Furniture,Camera,1222.7,-214.9,Corporate
+ORD-1170,2023-06-20,West,Furniture,Camera,1387.37,-326.63,Corporate
+ORD-1171,2023-06-21,East,Apparel,Tablet,131.52,396.77,Small Business
+ORD-1172,2023-06-22,South,Apparel,Laptop,1072.98,-419.77,Small Business
+ORD-1173,2023-06-23,West,Electronics,Laptop,530.34,24.51,Small Business
+ORD-1174,2023-06-24,West,Furniture,Camera,1325.83,-89.6,Consumer
+ORD-1175,2023-06-25,North,Furniture,Jeans,431.3,482.38,Small Business
+ORD-1176,2023-06-26,North,Apparel,Tablet,1412.78,-387.96,Corporate
+ORD-1177,2023-06-27,South,Apparel,Cabinet,834.8,-102.14,Consumer
+ORD-1178,2023-06-28,South,Electronics,Shoes,1879.79,469.47,Consumer
+ORD-1179,2023-06-29,South,Electronics,Cabinet,361.29,365.51,Consumer
+ORD-1180,2023-06-30,East,Furniture,Shirt,748.03,317.07,Corporate
+ORD-1181,2023-07-01,East,Electronics,Shoes,315.6,-242.1,Corporate
+ORD-1182,2023-07-02,West,Electronics,Laptop,1856.92,-329.11,Corporate
+ORD-1183,2023-07-03,North,Electronics,Jeans,1766.94,168.64,Small Business
+ORD-1184,2023-07-04,South,Electronics,Tablet,590.09,429.38,Consumer
+ORD-1185,2023-07-05,South,Furniture,Tablet,1353.97,56.76,Corporate
+ORD-1186,2023-07-06,West,Furniture,Shirt,1652.72,71.61,Small Business
+ORD-1187,2023-07-07,North,Electronics,Shoes,1154.88,-220.02,Corporate
+ORD-1188,2023-07-08,North,Electronics,Table,1106.34,269.49,Consumer
+ORD-1189,2023-07-09,South,Apparel,Cabinet,559.52,-312.96,Corporate
+ORD-1190,2023-07-10,South,Apparel,Shirt,276.9,-176.32,Corporate
+ORD-1191,2023-07-11,South,Furniture,Chair,1804.71,-74.56,Consumer
+ORD-1192,2023-07-12,North,Apparel,Laptop,1810.79,7.61,Corporate
+ORD-1193,2023-07-13,West,Apparel,Camera,1302.89,-257.59,Corporate
+ORD-1194,2023-07-14,South,Apparel,Tablet,744.16,-385.16,Small Business
+ORD-1195,2023-07-15,West,Furniture,Jacket,763.5,110.62,Consumer
+ORD-1196,2023-07-16,East,Furniture,Cabinet,1479.32,-211.37,Consumer
+ORD-1197,2023-07-17,North,Apparel,Jeans,1804.51,81.24,Consumer
+ORD-1198,2023-07-18,West,Furniture,Jeans,1785.46,-345.64,Consumer
+ORD-1199,2023-07-19,West,Furniture,Camera,1581.76,-18.86,Corporate
+ORD-1200,2023-07-20,West,Furniture,Shirt,1319.86,32.59,Small Business
+ORD-1201,2023-07-21,West,Apparel,Laptop,259.87,-448.18,Consumer
+ORD-1202,2023-07-22,West,Apparel,Desk,407.09,-163.4,Corporate
+ORD-1203,2023-07-23,North,Electronics,Chair,1807.25,-365.59,Corporate
+ORD-1204,2023-07-24,South,Electronics,Cabinet,1252.22,-436.63,Consumer
+ORD-1205,2023-07-25,North,Electronics,Camera,117.47,489.96,Small Business
+ORD-1206,2023-07-26,South,Apparel,Table,292.8,-177.65,Corporate
+ORD-1207,2023-07-27,North,Furniture,Smartphone,1360.65,309.87,Small Business
+ORD-1208,2023-07-28,South,Electronics,Smartphone,109.62,-245.36,Consumer
+ORD-1209,2023-07-29,West,Electronics,Cabinet,405.54,181.5,Consumer
+ORD-1210,2023-07-30,South,Apparel,Tablet,1142.59,260.23,Corporate
+ORD-1211,2023-07-31,West,Apparel,Chair,1414.6,95.64,Corporate
+ORD-1212,2023-08-01,South,Apparel,Shoes,1338.73,-28.42,Corporate
+ORD-1213,2023-08-02,South,Furniture,Cabinet,526.11,-88.16,Consumer
+ORD-1214,2023-08-03,West,Furniture,Jacket,1453.14,-151.13,Consumer
+ORD-1215,2023-08-04,West,Electronics,Shoes,550.77,429.53,Corporate
+ORD-1216,2023-08-05,East,Electronics,Jacket,718.26,330.62,Corporate
+ORD-1217,2023-08-06,East,Furniture,Camera,1518.33,465.03,Small Business
+ORD-1218,2023-08-07,North,Electronics,Laptop,1334.3,-375.7,Small Business
+ORD-1219,2023-08-08,South,Electronics,Tablet,1713.52,230.87,Consumer
+ORD-1220,2023-08-09,West,Electronics,Cabinet,1349.46,438.34,Corporate
+ORD-1221,2023-08-10,East,Apparel,Shirt,1179.79,-318.77,Small Business
+ORD-1222,2023-08-11,East,Apparel,Table,277.98,-433.5,Small Business
+ORD-1223,2023-08-12,East,Furniture,Tablet,798.66,241.12,Corporate
+ORD-1224,2023-08-13,North,Apparel,Shirt,603.88,74.47,Small Business
+ORD-1225,2023-08-14,East,Apparel,Table,563.58,341.83,Consumer
+ORD-1226,2023-08-15,East,Apparel,Jacket,1948.72,-360.23,Corporate
+ORD-1227,2023-08-16,West,Electronics,Jeans,846.89,295.27,Small Business
+ORD-1228,2023-08-17,North,Electronics,Desk,1794.89,-298.37,Consumer
+ORD-1229,2023-08-18,West,Apparel,Shoes,1299.16,-336.34,Consumer
+ORD-1230,2023-08-19,North,Furniture,Chair,1610.14,-335.73,Consumer
+ORD-1231,2023-08-20,North,Furniture,Table,1055.01,314.57,Consumer
+ORD-1232,2023-08-21,East,Apparel,Chair,1196.12,165.2,Consumer
+ORD-1233,2023-08-22,East,Electronics,Jeans,1035.78,23.07,Consumer
+ORD-1234,2023-08-23,North,Furniture,Desk,470.96,-141.17,Consumer
+ORD-1235,2023-08-24,North,Furniture,Laptop,1472.66,377.2,Small Business
+ORD-1236,2023-08-25,West,Furniture,Smartphone,633.47,-107.55,Corporate
+ORD-1237,2023-08-26,North,Electronics,Desk,146.2,316.6,Small Business
+ORD-1238,2023-08-27,East,Furniture,Camera,1326.4,-60.87,Small Business
+ORD-1239,2023-08-28,East,Electronics,Tablet,436.51,-123.06,Corporate
+ORD-1240,2023-08-29,South,Apparel,Camera,1886.87,-37.32,Corporate
+ORD-1241,2023-08-30,East,Apparel,Chair,1912.46,-198.62,Corporate
+ORD-1242,2023-08-31,East,Electronics,Camera,1838.24,247.61,Consumer
+ORD-1243,2023-09-01,West,Apparel,Chair,803.3,2.72,Consumer
+ORD-1244,2023-09-02,North,Electronics,Camera,129.37,-267.79,Corporate
+ORD-1245,2023-09-03,East,Apparel,Shoes,1863.81,399.57,Small Business
+ORD-1246,2023-09-04,North,Apparel,Laptop,913.55,-116.11,Corporate
+ORD-1247,2023-09-05,South,Furniture,Jeans,1936.64,43.55,Small Business
+ORD-1248,2023-09-06,East,Furniture,Jeans,1930.88,406.47,Corporate
+ORD-1249,2023-09-07,South,Electronics,Cabinet,1720.72,124.24,Corporate
+ORD-1250,2023-09-08,South,Electronics,Table,659.45,-383.1,Small Business
+ORD-1251,2023-09-09,West,Apparel,Table,831.69,439.83,Corporate
+ORD-1252,2023-09-10,North,Furniture,Cabinet,1717.16,127.71,Corporate
+ORD-1253,2023-09-11,South,Furniture,Jeans,702.15,-165.09,Consumer
+ORD-1254,2023-09-12,West,Apparel,Shoes,422.04,-360.73,Corporate
+ORD-1255,2023-09-13,West,Furniture,Cabinet,1157.92,294.03,Small Business
+ORD-1256,2023-09-14,North,Furniture,Jacket,1878.69,120.07,Corporate
+ORD-1257,2023-09-15,North,Furniture,Cabinet,1422.46,33.46,Consumer
+ORD-1258,2023-09-16,South,Electronics,Camera,1183.12,393.89,Corporate
+ORD-1259,2023-09-17,West,Furniture,Chair,284.64,288.6,Consumer
+ORD-1260,2023-09-18,West,Apparel,Smartphone,1268.51,-348.33,Small Business
+ORD-1261,2023-09-19,West,Furniture,Tablet,1981.1,-188.28,Corporate
+ORD-1262,2023-09-20,South,Apparel,Tablet,366.16,-251.51,Small Business
+ORD-1263,2023-09-21,North,Electronics,Jeans,1084.83,243.95,Small Business
+ORD-1264,2023-09-22,West,Furniture,Cabinet,1767.01,-466.47,Consumer
+ORD-1265,2023-09-23,East,Apparel,Jacket,1507.46,69.89,Consumer
+ORD-1266,2023-09-24,East,Furniture,Chair,1424.33,262.46,Small Business
+ORD-1267,2023-09-25,West,Apparel,Camera,1434.72,376.77,Corporate
+ORD-1268,2023-09-26,East,Electronics,Tablet,783.03,-157.92,Small Business
+ORD-1269,2023-09-27,North,Apparel,Table,657.82,321.26,Consumer
+ORD-1270,2023-09-28,West,Furniture,Cabinet,1637.79,-389.37,Small Business
+ORD-1271,2023-09-29,South,Electronics,Cabinet,1639.22,346.45,Consumer
+ORD-1272,2023-09-30,East,Electronics,Tablet,1747.44,-372.51,Small Business
+ORD-1273,2023-10-01,West,Furniture,Desk,1835.16,-102.71,Consumer
+ORD-1274,2023-10-02,North,Furniture,Camera,1071.55,297.3,Small Business
+ORD-1275,2023-10-03,North,Electronics,Table,1052.88,-350.08,Small Business
+ORD-1276,2023-10-04,North,Apparel,Cabinet,1616.76,-270.75,Consumer
+ORD-1277,2023-10-05,East,Apparel,Chair,1334.93,222.25,Small Business
+ORD-1278,2023-10-06,South,Furniture,Jacket,1433.74,220.04,Small Business
+ORD-1279,2023-10-07,East,Electronics,Desk,1612.01,141.15,Consumer
+ORD-1280,2023-10-08,East,Apparel,Tablet,1791.01,193.95,Small Business
+ORD-1281,2023-10-09,North,Furniture,Laptop,742.19,42.72,Small Business
+ORD-1282,2023-10-10,East,Apparel,Jacket,813.61,-248.2,Small Business
+ORD-1283,2023-10-11,South,Furniture,Camera,278.57,-154.3,Consumer
+ORD-1284,2023-10-12,South,Electronics,Jacket,1198.73,-318.4,Consumer
+ORD-1285,2023-10-13,West,Apparel,Table,168.29,408.45,Consumer
+ORD-1286,2023-10-14,West,Apparel,Jeans,984.64,83.39,Consumer
+ORD-1287,2023-10-15,North,Electronics,Jeans,1131.02,-99.15,Corporate
+ORD-1288,2023-10-16,South,Furniture,Cabinet,644.43,-37.99,Corporate
+ORD-1289,2023-10-17,South,Furniture,Cabinet,1222.58,447.28,Corporate
+ORD-1290,2023-10-18,North,Apparel,Smartphone,157.95,-346.65,Corporate
+ORD-1291,2023-10-19,West,Furniture,Desk,170.96,86.23,Corporate
+ORD-1292,2023-10-20,East,Apparel,Jeans,1662.94,5.89,Corporate
+ORD-1293,2023-10-21,South,Apparel,Jeans,784.36,111.45,Small Business
+ORD-1294,2023-10-22,East,Electronics,Desk,341.41,-481.89,Small Business
+ORD-1295,2023-10-23,East,Apparel,Chair,1092.26,372.12,Corporate
+ORD-1296,2023-10-24,South,Furniture,Jeans,1562.99,432.12,Consumer
+ORD-1297,2023-10-25,North,Apparel,Laptop,510.06,65.13,Small Business
+ORD-1298,2023-10-26,North,Furniture,Desk,1283.49,196.65,Small Business
+ORD-1299,2023-10-27,West,Apparel,Shoes,262.16,422.5,Small Business
+ORD-1300,2023-10-28,West,Electronics,Jacket,198.2,207.24,Corporate
+ORD-1301,2023-10-29,East,Electronics,Shoes,1109.57,-347.46,Small Business
+ORD-1302,2023-10-30,West,Furniture,Shirt,1127.21,76.29,Consumer
+ORD-1303,2023-10-31,East,Apparel,Jeans,1311.12,106.72,Consumer
+ORD-1304,2023-11-01,North,Furniture,Shirt,1479.57,-75.87,Corporate
+ORD-1305,2023-11-02,North,Electronics,Chair,1954.12,236.44,Consumer
+ORD-1306,2023-11-03,South,Furniture,Table,1080.97,434.37,Corporate
+ORD-1307,2023-11-04,West,Furniture,Table,713.62,425.57,Corporate
+ORD-1308,2023-11-05,West,Furniture,Table,1610.85,-49.16,Corporate
+ORD-1309,2023-11-06,West,Furniture,Chair,614.58,-386.76,Corporate
+ORD-1310,2023-11-07,West,Furniture,Tablet,934.05,484.84,Small Business
+ORD-1311,2023-11-08,North,Electronics,Tablet,249.07,338.9,Consumer
+ORD-1312,2023-11-09,North,Electronics,Jacket,148.17,-375.34,Small Business
+ORD-1313,2023-11-10,North,Apparel,Desk,1929.03,420.84,Consumer
+ORD-1314,2023-11-11,West,Furniture,Laptop,1688.36,369.9,Consumer
+ORD-1315,2023-11-12,West,Electronics,Smartphone,1422.35,18.84,Consumer
+ORD-1316,2023-11-13,South,Apparel,Laptop,877.01,91.28,Small Business
+ORD-1317,2023-11-14,East,Electronics,Jeans,429.26,-101.0,Corporate
+ORD-1318,2023-11-15,North,Apparel,Camera,397.23,-445.24,Small Business
+ORD-1319,2023-11-16,West,Apparel,Jeans,575.46,-164.8,Consumer
+ORD-1320,2023-11-17,West,Apparel,Shirt,1143.53,302.85,Corporate
+ORD-1321,2023-11-18,West,Furniture,Shoes,1457.73,-495.37,Corporate
+ORD-1322,2023-11-19,West,Furniture,Camera,1354.38,-166.5,Small Business
+ORD-1323,2023-11-20,West,Apparel,Chair,631.87,-101.83,Small Business
+ORD-1324,2023-11-21,North,Apparel,Jacket,1914.24,37.4,Consumer
+ORD-1325,2023-11-22,East,Furniture,Laptop,1502.0,419.86,Small Business
+ORD-1326,2023-11-23,South,Electronics,Desk,1153.27,-153.65,Corporate
+ORD-1327,2023-11-24,West,Furniture,Tablet,1262.27,-153.05,Consumer
+ORD-1328,2023-11-25,West,Furniture,Shirt,897.24,237.5,Small Business
+ORD-1329,2023-11-26,West,Apparel,Jacket,570.69,-47.78,Consumer
+ORD-1330,2023-11-27,West,Apparel,Jacket,776.35,-275.4,Small Business
+ORD-1331,2023-11-28,South,Furniture,Camera,1539.91,-47.56,Small Business
+ORD-1332,2023-11-29,West,Furniture,Table,127.35,-359.14,Corporate
+ORD-1333,2023-11-30,North,Furniture,Chair,320.54,-323.61,Corporate
+ORD-1334,2023-12-01,West,Apparel,Shoes,187.41,-1.63,Small Business
+ORD-1335,2023-12-02,West,Furniture,Tablet,177.38,-81.07,Corporate
+ORD-1336,2023-12-03,North,Furniture,Chair,1725.38,414.85,Corporate
+ORD-1337,2023-12-04,West,Electronics,Laptop,1436.95,-137.61,Consumer
+ORD-1338,2023-12-05,South,Furniture,Jacket,1000.93,80.59,Small Business
+ORD-1339,2023-12-06,South,Apparel,Chair,285.88,132.26,Corporate
+ORD-1340,2023-12-07,West,Furniture,Table,1034.07,-486.91,Consumer
+ORD-1341,2023-12-08,North,Apparel,Tablet,999.6,163.54,Consumer
+ORD-1342,2023-12-09,North,Furniture,Jeans,429.08,-321.96,Small Business
+ORD-1343,2023-12-10,North,Apparel,Desk,924.32,461.07,Consumer
+ORD-1344,2023-12-11,South,Apparel,Jacket,857.16,-351.34,Corporate
+ORD-1345,2023-12-12,West,Apparel,Cabinet,1270.12,-85.38,Consumer
+ORD-1346,2023-12-13,West,Furniture,Jeans,1306.68,-414.65,Small Business
+ORD-1347,2023-12-14,South,Electronics,Jeans,186.08,496.87,Small Business
+ORD-1348,2023-12-15,East,Apparel,Table,811.76,2.2,Small Business
+ORD-1349,2023-12-16,South,Apparel,Camera,1289.13,95.39,Corporate
+ORD-1350,2023-12-17,West,Apparel,Cabinet,1055.96,-432.92,Corporate
+ORD-1351,2023-12-18,East,Electronics,Desk,1727.33,249.96,Consumer
+ORD-1352,2023-12-19,West,Electronics,Shoes,1351.52,-290.09,Corporate
+ORD-1353,2023-12-20,North,Furniture,Shirt,409.58,398.05,Corporate
+ORD-1354,2023-12-21,West,Apparel,Jeans,234.08,-294.86,Small Business
+ORD-1355,2023-12-22,North,Apparel,Smartphone,1320.6,-309.31,Corporate
+ORD-1356,2023-12-23,West,Apparel,Camera,150.37,-463.45,Consumer
+ORD-1357,2023-12-24,South,Furniture,Cabinet,1212.97,-27.93,Corporate
+ORD-1358,2023-12-25,North,Electronics,Jeans,1886.44,64.84,Corporate
+ORD-1359,2023-12-26,South,Furniture,Desk,1193.4,-434.29,Small Business
+ORD-1360,2023-12-27,East,Apparel,Tablet,837.52,275.53,Small Business
+ORD-1361,2023-12-28,South,Furniture,Shoes,1322.25,-46.71,Corporate
+ORD-1362,2023-12-29,East,Apparel,Jeans,970.68,24.39,Corporate
+ORD-1363,2023-12-30,East,Apparel,Camera,1136.67,-59.24,Consumer
+ORD-1364,2023-12-31,South,Electronics,Jacket,1888.78,-99.24,Consumer
+ORD-1365,2024-01-01,East,Apparel,Tablet,833.6,59.64,Consumer
+ORD-1366,2024-01-02,South,Electronics,Jacket,1926.26,-344.76,Small Business
+ORD-1367,2024-01-03,East,Furniture,Laptop,1820.17,-318.07,Small Business
+ORD-1368,2024-01-04,North,Electronics,Cabinet,472.0,361.79,Corporate
+ORD-1369,2024-01-05,West,Furniture,Jacket,231.79,446.12,Small Business
+ORD-1370,2024-01-06,East,Furniture,Smartphone,291.48,-126.69,Corporate
+ORD-1371,2024-01-07,East,Apparel,Desk,134.62,-229.26,Corporate
+ORD-1372,2024-01-08,East,Electronics,Desk,279.44,144.0,Consumer
+ORD-1373,2024-01-09,East,Electronics,Camera,1397.71,-91.27,Consumer
+ORD-1374,2024-01-10,South,Apparel,Tablet,235.26,-474.61,Small Business
+ORD-1375,2024-01-11,North,Furniture,Chair,706.05,-343.85,Corporate
+ORD-1376,2024-01-12,East,Electronics,Camera,1705.26,215.97,Small Business
+ORD-1377,2024-01-13,South,Apparel,Jacket,144.22,158.92,Consumer
+ORD-1378,2024-01-14,South,Electronics,Desk,1647.49,-472.9,Corporate
+ORD-1379,2024-01-15,West,Furniture,Tablet,635.52,-278.03,Corporate
+ORD-1380,2024-01-16,East,Electronics,Jacket,324.51,-268.93,Consumer
+ORD-1381,2024-01-17,South,Electronics,Jeans,1423.8,171.89,Corporate
+ORD-1382,2024-01-18,South,Electronics,Chair,1294.99,-480.29,Corporate
+ORD-1383,2024-01-19,South,Apparel,Jeans,1767.2,-395.89,Consumer
+ORD-1384,2024-01-20,South,Apparel,Camera,1496.63,299.92,Small Business
+ORD-1385,2024-01-21,South,Apparel,Smartphone,1626.61,-321.46,Small Business
+ORD-1386,2024-01-22,North,Electronics,Shoes,635.87,152.75,Small Business
+ORD-1387,2024-01-23,South,Furniture,Jacket,437.14,-261.82,Corporate
+ORD-1388,2024-01-24,West,Furniture,Camera,1526.17,-400.56,Small Business
+ORD-1389,2024-01-25,East,Furniture,Shoes,1632.99,-256.83,Consumer
+ORD-1390,2024-01-26,West,Furniture,Chair,1981.96,222.27,Consumer
+ORD-1391,2024-01-27,East,Furniture,Smartphone,883.97,355.7,Consumer
+ORD-1392,2024-01-28,South,Electronics,Laptop,806.83,330.22,Corporate
+ORD-1393,2024-01-29,East,Apparel,Camera,1575.18,-102.82,Consumer
+ORD-1394,2024-01-30,North,Electronics,Jacket,747.53,168.09,Corporate
+ORD-1395,2024-01-31,South,Furniture,Desk,1868.44,-295.02,Corporate
+ORD-1396,2024-02-01,South,Furniture,Shirt,1730.98,-206.85,Corporate
+ORD-1397,2024-02-02,East,Electronics,Desk,915.09,396.34,Corporate
+ORD-1398,2024-02-03,East,Furniture,Smartphone,1526.66,-487.0,Corporate
+ORD-1399,2024-02-04,South,Furniture,Smartphone,1533.63,-414.49,Corporate
+ORD-1400,2024-02-05,South,Apparel,Smartphone,295.94,-292.11,Small Business
+ORD-1401,2024-02-06,North,Electronics,Tablet,1814.85,-473.47,Small Business
+ORD-1402,2024-02-07,South,Apparel,Table,1059.98,-318.56,Consumer
+ORD-1403,2024-02-08,West,Furniture,Shirt,1670.27,83.04,Consumer
+ORD-1404,2024-02-09,West,Electronics,Chair,708.09,-78.58,Consumer
+ORD-1405,2024-02-10,North,Furniture,Camera,1801.49,392.67,Consumer
+ORD-1406,2024-02-11,North,Apparel,Shirt,839.48,317.44,Small Business
+ORD-1407,2024-02-12,East,Apparel,Table,120.59,-158.18,Corporate
+ORD-1408,2024-02-13,East,Electronics,Laptop,1820.23,-240.58,Small Business
+ORD-1409,2024-02-14,South,Furniture,Table,273.44,-120.31,Small Business
+ORD-1410,2024-02-15,West,Furniture,Smartphone,706.7,90.29,Corporate
+ORD-1411,2024-02-16,West,Apparel,Camera,1905.12,-231.94,Consumer
+ORD-1412,2024-02-17,East,Electronics,Table,1906.15,124.15,Corporate
+ORD-1413,2024-02-18,North,Apparel,Desk,1189.53,-90.59,Corporate
+ORD-1414,2024-02-19,North,Furniture,Camera,1300.49,52.05,Corporate
+ORD-1415,2024-02-20,North,Furniture,Cabinet,952.05,-63.87,Corporate
+ORD-1416,2024-02-21,North,Furniture,Desk,657.1,-205.53,Corporate
+ORD-1417,2024-02-22,South,Furniture,Camera,724.46,448.45,Small Business
+ORD-1418,2024-02-23,West,Apparel,Jacket,1377.79,263.61,Corporate
+ORD-1419,2024-02-24,North,Apparel,Laptop,1529.51,-359.89,Consumer
+ORD-1420,2024-02-25,South,Furniture,Chair,1604.0,368.47,Corporate
+ORD-1421,2024-02-26,East,Apparel,Desk,1600.27,-12.57,Small Business
+ORD-1422,2024-02-27,North,Furniture,Shirt,273.29,394.55,Consumer
+ORD-1423,2024-02-28,East,Apparel,Table,1039.4,299.86,Consumer
+ORD-1424,2024-02-29,South,Furniture,Cabinet,209.36,-74.79,Consumer
+ORD-1425,2024-03-01,North,Electronics,Desk,1144.1,-477.53,Consumer
+ORD-1426,2024-03-02,East,Furniture,Desk,938.91,-231.32,Small Business
+ORD-1427,2024-03-03,North,Furniture,Shirt,1786.64,41.63,Corporate
+ORD-1428,2024-03-04,West,Apparel,Camera,766.74,133.48,Small Business
+ORD-1429,2024-03-05,West,Electronics,Laptop,322.43,-242.11,Corporate
+ORD-1430,2024-03-06,North,Electronics,Jacket,371.68,-360.64,Corporate
+ORD-1431,2024-03-07,South,Apparel,Table,1546.87,334.93,Corporate
+ORD-1432,2024-03-08,North,Electronics,Jeans,1274.61,484.4,Consumer
+ORD-1433,2024-03-09,West,Electronics,Chair,292.13,25.69,Corporate
+ORD-1434,2024-03-10,East,Furniture,Shoes,259.8,-328.32,Small Business
+ORD-1435,2024-03-11,North,Apparel,Jacket,1431.84,-227.69,Corporate
+ORD-1436,2024-03-12,North,Furniture,Camera,238.25,-481.61,Small Business
+ORD-1437,2024-03-13,West,Apparel,Camera,1661.53,414.3,Small Business
+ORD-1438,2024-03-14,South,Apparel,Table,1441.86,-382.25,Corporate
+ORD-1439,2024-03-15,West,Electronics,Shoes,254.56,76.52,Consumer
+ORD-1440,2024-03-16,East,Apparel,Laptop,261.19,-225.94,Corporate
+ORD-1441,2024-03-17,West,Furniture,Jeans,1974.62,54.18,Small Business
+ORD-1442,2024-03-18,East,Apparel,Cabinet,811.11,151.42,Corporate
+ORD-1443,2024-03-19,West,Apparel,Shirt,804.22,329.74,Consumer
+ORD-1444,2024-03-20,West,Furniture,Chair,1644.32,-293.58,Small Business
+ORD-1445,2024-03-21,East,Electronics,Shoes,1899.77,-489.0,Consumer
+ORD-1446,2024-03-22,East,Apparel,Smartphone,1973.4,-363.11,Consumer
+ORD-1447,2024-03-23,East,Electronics,Jeans,1531.42,400.02,Small Business
+ORD-1448,2024-03-24,West,Apparel,Desk,814.89,373.89,Consumer
+ORD-1449,2024-03-25,East,Apparel,Laptop,258.65,97.41,Small Business
+ORD-1450,2024-03-26,West,Apparel,Tablet,1576.58,100.52,Consumer
+ORD-1451,2024-03-27,East,Apparel,Camera,1160.97,165.04,Small Business
+ORD-1452,2024-03-28,South,Apparel,Camera,906.02,-324.63,Consumer
+ORD-1453,2024-03-29,South,Apparel,Shoes,1822.07,414.41,Small Business
+ORD-1454,2024-03-30,North,Furniture,Chair,311.28,-81.23,Small Business
+ORD-1455,2024-03-31,East,Apparel,Jeans,1035.99,-116.86,Small Business
+ORD-1456,2024-04-01,West,Electronics,Table,121.57,18.92,Corporate
+ORD-1457,2024-04-02,East,Furniture,Tablet,990.46,-453.03,Corporate
+ORD-1458,2024-04-03,East,Furniture,Jeans,206.98,-333.72,Corporate
+ORD-1459,2024-04-04,South,Apparel,Tablet,325.75,238.03,Small Business
+ORD-1460,2024-04-05,North,Apparel,Chair,323.3,-417.2,Small Business
+ORD-1461,2024-04-06,South,Furniture,Shirt,1333.5,103.15,Small Business
+ORD-1462,2024-04-07,South,Apparel,Shirt,1517.49,-254.65,Corporate
+ORD-1463,2024-04-08,South,Apparel,Camera,1208.4,-110.7,Corporate
+ORD-1464,2024-04-09,East,Electronics,Laptop,1928.13,-211.31,Corporate
+ORD-1465,2024-04-10,North,Electronics,Chair,812.25,-144.33,Consumer
+ORD-1466,2024-04-11,North,Electronics,Jeans,642.85,219.05,Small Business
+ORD-1467,2024-04-12,East,Apparel,Shirt,1750.34,-202.88,Consumer
+ORD-1468,2024-04-13,East,Furniture,Shirt,524.83,66.4,Corporate
+ORD-1469,2024-04-14,North,Apparel,Desk,1930.12,-23.95,Small Business
+ORD-1470,2024-04-15,South,Electronics,Shoes,123.09,163.67,Corporate
+ORD-1471,2024-04-16,East,Electronics,Desk,1942.77,436.83,Small Business
+ORD-1472,2024-04-17,South,Apparel,Chair,182.0,232.57,Small Business
+ORD-1473,2024-04-18,North,Apparel,Shirt,1793.17,-285.06,Consumer
+ORD-1474,2024-04-19,South,Electronics,Table,1102.63,-468.82,Small Business
+ORD-1475,2024-04-20,West,Furniture,Shoes,1986.63,-237.74,Corporate
+ORD-1476,2024-04-21,East,Electronics,Jeans,240.21,95.08,Consumer
+ORD-1477,2024-04-22,East,Apparel,Smartphone,1152.32,-448.57,Consumer
+ORD-1478,2024-04-23,West,Electronics,Desk,1941.67,-3.63,Corporate
+ORD-1479,2024-04-24,West,Furniture,Jeans,1093.89,96.84,Small Business
+ORD-1480,2024-04-25,South,Electronics,Cabinet,1295.86,-165.76,Consumer
+ORD-1481,2024-04-26,North,Apparel,Smartphone,1421.92,270.91,Consumer
+ORD-1482,2024-04-27,South,Electronics,Tablet,963.63,-393.4,Consumer
+ORD-1483,2024-04-28,West,Furniture,Cabinet,1292.36,-424.86,Consumer
+ORD-1484,2024-04-29,West,Apparel,Smartphone,1210.2,228.19,Small Business
+ORD-1485,2024-04-30,West,Apparel,Cabinet,1812.2,-4.51,Corporate
+ORD-1486,2024-05-01,South,Apparel,Chair,186.35,188.4,Consumer
+ORD-1487,2024-05-02,East,Furniture,Jeans,633.83,-65.17,Corporate
+ORD-1488,2024-05-03,East,Apparel,Table,1905.78,-253.6,Corporate
+ORD-1489,2024-05-04,East,Electronics,Tablet,1791.5,319.1,Corporate
+ORD-1490,2024-05-05,North,Furniture,Jacket,965.75,299.42,Consumer
+ORD-1491,2024-05-06,North,Electronics,Desk,1278.25,194.7,Small Business
+ORD-1492,2024-05-07,South,Furniture,Jeans,627.02,-227.85,Small Business
+ORD-1493,2024-05-08,North,Furniture,Camera,457.43,90.23,Corporate
+ORD-1494,2024-05-09,South,Apparel,Shoes,981.03,-139.03,Small Business
+ORD-1495,2024-05-10,East,Electronics,Shirt,771.37,-408.42,Small Business
+ORD-1496,2024-05-11,South,Furniture,Tablet,1208.95,417.31,Small Business
+ORD-1497,2024-05-12,North,Furniture,Table,247.7,-363.18,Corporate
+ORD-1498,2024-05-13,South,Apparel,Cabinet,1951.35,450.24,Corporate
+ORD-1499,2024-05-14,North,Apparel,Shoes,1973.8,-53.99,Corporate
